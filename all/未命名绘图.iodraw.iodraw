@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="JaLmTCmhpKghi9dyyeMD">
+    <mxGraphModel dx="1834" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="280" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-7" value="市质监" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-8" value="省质监" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-9" value="国务院质监" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-10" value="国务院" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-11" value="重大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=14;rounded=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-12" value="一般" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=14;rounded=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="75" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-13" value="较大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=14;rounded=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-14" value="特大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=14;rounded=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-15" value="事故等级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-16" value="事故调查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-18" value="单位罚款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-19" value="主要负责人罚款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-20" value="10万~20万" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-21" value="20万~50万" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="160" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-22" value="50万~200万" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-23" value="上一年收人的30%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="40" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-24" value="上一年收人的40%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="160" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNbdSbOYDG3hkIdTr0Xg-25" value="上一年收人的60%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="280" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
