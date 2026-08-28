@@ -20,7 +20,7 @@
             <mxRectangle width="120" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3SsMDDqzIDTOW92IFHfV-12" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="3SsMDDqzIDTOW92IFHfV-9">
+        <mxCell id="3SsMDDqzIDTOW92IFHfV-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="3SsMDDqzIDTOW92IFHfV-9">
           <mxGeometry x="280" width="120" height="120" as="geometry">
             <mxRectangle width="120" height="120" as="alternateBounds" />
           </mxGeometry>
